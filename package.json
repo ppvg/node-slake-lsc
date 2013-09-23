@@ -1,0 +1,32 @@
+{
+  "name": "slake-lsc",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Slake helpers for the LiveScript compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "slake test"
+  },
+  "dependencies": {
+    "LiveScript": "~1.2.0",
+    "prelude-ls": "~1.0.3",
+    "when": "~2.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PPvG/node-slake-lsc.git"
+  },
+  "author": "Peter-Paul van Gemerden <info@ppvg.nl>",
+  "license": {
+    "type": "MIT",
+    "url": "http://opensource.org/licenses/MIT"
+  },
+  "keywords": [
+    "LiveScript",
+    "slake",
+    "lsc",
+    "build",
+    "compile",
+    "helper"
+  ]
+}
