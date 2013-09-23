@@ -2,7 +2,7 @@
   "name": "slake-lsc",
   "version": "0.0.1",
   "private": true,
-  "description": "Slake helpers for the LiveScript compiler",
+  "description": "LiveScript compiler helpers for your Slakefile",
   "main": "index.js",
   "scripts": {
     "test": "slake test"
